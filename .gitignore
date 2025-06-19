@@ -1,0 +1,37 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, which may be created with 'go test -c'
+*.test
+
+# Output of 'go build'
+*.out
+
+# Compiled Go packages
+*.a
+*.o
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific
+.DS_Store
+
+# Linux specific
+*.swp
+*~
+
+# Dependency directories (go modules)
+vendor/
+
+# Logs
+*.log
+
+# Environment variables
+.env
